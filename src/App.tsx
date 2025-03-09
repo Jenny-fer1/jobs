@@ -1,4 +1,4 @@
-import React from 'react';
+
 import JobList from './Components/JobList';
 import './App.css';
 
